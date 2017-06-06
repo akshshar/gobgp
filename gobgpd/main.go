@@ -24,7 +24,7 @@ import (
 	"runtime"
 	"syscall"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"github.com/jessevdk/go-flags"
 	p "github.com/kr/pretty"
 	api "github.com/osrg/gobgp/api"
